@@ -2,8 +2,6 @@
 
 # download the font
 cd ~/Downloads
-mkdir tmp
-cd tmp
 curl -s -L https://github.com/tonsky/FiraCode/blob/master/distr/ttf/FiraCode-Retina.ttf?raw=true > FiraCode-Retina.ttf
 
 # install the font by moving it to the font folder
