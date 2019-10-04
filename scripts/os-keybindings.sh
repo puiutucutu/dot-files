@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# sends active window to the back when pressing `CTRL+ESC`
+# sends active window to the back (replicate Windows behaviour)
 gsettings set org.cinnamon.desktop.keybindings.wm lower "['<Ctrl>Escape']"
