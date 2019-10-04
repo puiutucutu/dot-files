@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/env bash
 
 # download the font
 cd ~/Downloads
